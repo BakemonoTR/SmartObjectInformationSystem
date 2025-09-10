@@ -40,6 +40,8 @@ Smart Object Information System is a C# application that integrates **YOLO objec
 - Add a mode where users can define and customize their own prompts  
 - Train your own YOLO model via application(?) 
 - Convert your .yolo to .onnx (?)
-##Download
+
+- 
+## Download
 All release files are available on Google Drive:  
 [Google Drive Folder](https://drive.google.com/file/d/1ESnAASYqYYBIWd5Nj9AJVoWmv8pk5Pz9/view?usp=sharing)
