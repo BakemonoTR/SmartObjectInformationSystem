@@ -8,7 +8,7 @@ Smart Object Information System is a C# application that integrates **YOLO objec
 ## Features
 
 - **YOLO ONNX Support**  
-  Convert any YOLO model into ONNX format using my [Gradio-based converter on Hugging Face Spaces](link-here) and load it into the system for detection.
+  Convert any YOLO model into ONNX format using my [Gradio-based converter on Hugging Face Spaces](https://huggingface.co/spaces/EnverCanBickin/yolotoonnx) and load it into the system for detection.
 
 - **Custom Bounding Box Drawing**  
   The system processes YOLO model outputs and draws bounding boxes directly on the camera feed using C# code.
